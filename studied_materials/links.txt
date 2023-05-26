@@ -1,0 +1,45 @@
+# ОБРАБОТКА ТЕКСТА
+
+https://machinelearningmastery.ru/machine-learning-text-processing-1d5a2d638958/
+
++ видео ютуб
+
+# статья с алгоритмом опраеделния оригинальности, но без нейронок. Формулы какие-то. Расстояние между векторами.
+# ДАТАСЕТЫ!!!!!!
+https://cyberleninka.ru/article/n/o-kombinirovannom-algoritme-obnaruzheniya-zaimstvovaniy-v-tekstovyh-dokumentah/viewer
+https://plagevalrus.github.io/content/corpora/paraplag.html (русский датасет)
+https://zenodo.org/record/3660984 (английский датасет)
+
+
+
+
+# СТРУКТУРА RNN
+
+http://www.nauteh-journal.ru/files/3dbd7d85-0299-4505-b66d-6e1a5aa94d45
+
+B Agarwal, H. Ramampiaro, H Langseth, M Ruocco, (2018), "A Deep Network Model for Paraphrase Detection in Short Text Messages". In Information Processing & Management Journal (IPM), 54(6), pp. 922-937.
+https://www.researchgate.net/publication/321718880_A_Deep_Network_Model_for_Paraphrase_Detection_in_Short_Text_Messages
+
+https://www.bizkit.ru/2020/05/17/17489/ - пример на генирацию фраз
+https://www.bizkit.ru/2019/10/23/14754/ - классификайия текта по авторам
+
+
+
+# БЛОГ АНТИПЛАГИАТА 
+
+https://itnan.ru/post.php?c=1&p=422941 - про парафраз (мало полезного)
+https://habr.com/ru/company/antiplagiat/blog/354142/ - про перевод (говорится в конце про rnn)
+https://translated.turbopages.org/proxy_u/en-ru.ru.34abd783-642bf18e-ec00aeb8-74722d776562/https/en.wikipedia.org/wiki/Cosine_similarity - косинусовое подобие
+https://habr.com/ru/company/antiplagiat/blog/461903/ - про шилинги (полезно)
+
+
+
+# ПРОСТО АЛГОРИТМЫ
+
+http://rcdl2007.pereslavl.ru/papers/paper_65_v1.pdf - куча разных алгоритмов, но не НС
+
+
+# NLP
+
+https://proglib.io/p/fun-nlp - синтаксический анализ, саммари текста
+https://medium.com/stseusp/nlp-for-people-1-c9b54ffce13f - в целом про области NLP

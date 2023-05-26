@@ -1,0 +1,24 @@
+#- name: Install postgresql-client
+#  apt: name=postgresql-client state=present update_cache=yes
+#  when:
+#    ansible_os_family == "Debian"
+#
+#- name: Verify postgresql-client
+#  shell: whereis postgresql-client
+#  register: pgVer
+#
+#- name: print postgresql-client
+#  debug:
+#    msg: "{{ pgVer.stdout }}"
+#
+#- name: Delete default HTML files
+#  shell: /bin/rm -rf /usr/share/nginx/html/*.html
+#  args:
+#    warn: false
+#
+#
+#
+html_dir: /usr/share/nginx/html
+greeting: "Hello Everybody!"
+student: "Chasovskih Anna IKBO-16-21 var 13"
+
